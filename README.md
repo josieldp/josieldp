@@ -1,5 +1,10 @@
-## Ola ! eu sou o Josiel 👋
-- 😄 Estudante Engenharia de software.
+## 👋 Eu sou o Josiel
+
+💻 Desenvolvedor com experiência autônoma em SaaS  
+⚙️ Node.js | APIs | Automação  
+🤖 Integração com IA e WhatsApp  
+
+📈 Construindo soluções que geram resultado
   ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Jota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
